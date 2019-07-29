@@ -1,0 +1,22 @@
+.homepage {
+	.page-title {
+		font-size: $largetext;
+		color: $dark-pink;
+		margin-bottom:20px;
+	}
+	.page-heading {
+		font-size: $largetext;
+		margin-bottom:50px;
+	}
+	.page-container {
+		font-weight: $bold;
+		h3 {
+			font-size: $h4;
+			color: $very-gray;
+		}
+		p {
+			font-size: $font18;
+			color: $red;
+		}
+	}
+}
